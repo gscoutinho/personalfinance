@@ -1,2 +1,2 @@
 # personalfinance
-personal finance website | Vue.js | Express.js
+personal finance website | Vue.js | Express.js | MongoDB
